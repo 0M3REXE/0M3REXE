@@ -1,3 +1,5 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username&repo=your-repo&style=for-the-badge&color=brightgreen)
+
 # 💫 About Me:
 I’m a cybersecurity professional with experience in ethical hacking, penetration testing, and risk management. I’m also an AI/ML enthusiast with hands-on experience building machine learning projects. I specialize in Python, C, and Solidity, with a strong focus on network security and vulnerability assessment. Active in CTF competitions and technical teams, I stay ahead in cybersecurity and emerging technologies like blockchain.
 
